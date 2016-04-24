@@ -1,6 +1,6 @@
 var expect = require('chai').expect;
 
-describe('random-lastName: ', function () {
+describe('random-fullName: ', function () {
 
   var randomName = require('../../');
 

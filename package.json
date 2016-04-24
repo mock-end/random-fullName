@@ -12,9 +12,9 @@
     "prepublish": "npm test"
   },
   "keywords": [
+    "fullName",
     "firstName",
     "lastName",
-    "middleName",
     "name",
     "person",
     "random",
