@@ -1,6 +1,6 @@
 {
   "name": "random-fullname",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Generate a random full name.",
   "main": "index.js",
   "scripts": {
@@ -46,7 +46,7 @@
     "mocha": "^2.4.5"
   },
   "dependencies": {
-    "random-firstname": "^1.0.0",
-    "random-lastname": "^1.0.0"
+    "random-firstname": "^1.0.1",
+    "random-lastname": "^1.0.1"
   }
 }

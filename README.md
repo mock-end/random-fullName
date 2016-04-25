@@ -20,8 +20,7 @@ $ npm install --save random-fullName
 var randomFullName = require('random-fullName');
 
 // API
-// - randomFullName();
-// - randomFullName(options);
+// - randomFullName([options]);
 
 // options
 // - gender
@@ -44,7 +43,7 @@ randomFullName({middleName: 'Suosat'});
 Optionally specify the gender:
 
 ```js
-randomFullName({gender: 'male'});
+randomFullName({gender: 'male', middleName: true });
 // => 'Ezme Dafi Iza'
 ```
 
