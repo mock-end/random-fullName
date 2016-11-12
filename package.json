@@ -1,5 +1,5 @@
 {
-  "name": "random-fullname",
+  "name": "random-fullName",
   "version": "1.0.1",
   "description": "Generate a random full name.",
   "main": "index.js",
